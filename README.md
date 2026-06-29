@@ -71,7 +71,7 @@ This repository contains the complete implementation, experimental evaluation, a
 ### Model Architecture
 
 <p align="center">
-    <img src="architecture.png" width="950" alt="HMCT Architecture">
+    <img src="HMCTArchitecture.png" width="950" alt="HMCT Architecture">
 </p>
 
 *Figure 1. HMCT architecture illustrating the integration of hierarchical working, episodic, and semantic memory modules with a causal Transformer backbone.*
